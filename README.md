@@ -1,2 +1,2 @@
 # kodluyoruzilkrepo
-! [resim deneme] (https://resimyukle.io/r/lfakzipLce)
+![resim deneme](https://resimyukle.io/r/lfakzipLce)
